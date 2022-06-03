@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Zakat Easy Apps</string>
+
+    <string-array name="status">
+        <item>Keep</item>
+        <item>Wear</item>
+    </string-array>
+
+
+    <string name="messageWithLink"><a href="https://github.com/Mrydraig/assigmentict650.git">To our website</a></string>
+    <string name="zakat">Zakat</string>
+    <string name="about">About</string>
+</resources>
