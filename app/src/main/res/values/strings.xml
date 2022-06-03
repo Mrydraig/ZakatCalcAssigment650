@@ -7,7 +7,7 @@
     </string-array>
 
 
-    <string name="messageWithLink"><a href="https://github.com/Mrydraig/assigmentict650.git">To our website</a></string>
+    <string name="messageWithLink"><a href="https://github.com/Mrydraig/ZakatCalcAssigment650">To our website</a></string>
     <string name="zakat">Zakat</string>
     <string name="about">About</string>
 </resources>
